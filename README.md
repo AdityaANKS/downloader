@@ -95,4 +95,4 @@ fix_paths.py       — directory setup script
 
 ## License
 
-Personal use.
+This project is licensed by MIT license.
