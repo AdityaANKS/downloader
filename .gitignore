@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Application databases & logs
+*.log
+downloader.log
+downloader.db
+scraper.db
+settings.json
+feature_settings.json
+download_archive.txt
+
+# Media Output / Download Directories
+cookies/
+videos/
+audios/
+thumbnails/
+subtitles/
+images/
+temp/
+text/
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
